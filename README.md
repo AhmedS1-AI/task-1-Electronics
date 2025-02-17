@@ -1,9 +1,9 @@
 # task-1-Electronics
 
-#the components
+#the components:
 piezo sensor-resistor-led
 
-#Explanation of the sensor
+#Explanation of the sensor:
 This sensor measures any tremor, and this identification emits a volt
 
 #the link:
